@@ -1,4 +1,4 @@
-package org.lucy.classes;
+package com.lucy.classes;
 
 public class MyClassTest {
     public static void main(String[] args){

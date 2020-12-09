@@ -1,4 +1,4 @@
-package org.lucy.classes;
+package com.lucy.classes;
 
 class MyClass {
     private String myClassId = "20";
